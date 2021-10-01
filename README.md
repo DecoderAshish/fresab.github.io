@@ -1,0 +1,2 @@
+# FreSab
+FreSab is a Vegetable &amp; fruit delivery start-up based in Ramgarh Jharkhand, India, FreSab is founded in                 2021. It is a start-up that allows customers to order Vegetable &amp; Fruit from the FreSab website and                 android application from nearby sellers and get is deliver to your doorstep. FreSab acts as a bridge                 between sellers to customers. We get relable and fast delivery because we deliver one order at a time.
